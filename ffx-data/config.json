@@ -41,6 +41,20 @@
           "price": 880
         }
       ]
+    },
+    "wm": {
+      "packages": [
+        {
+          "label": "WEEKLY",
+          "name": "WEEKLY",
+          "price": 165
+        },
+        {
+          "label": "MONTHLY",
+          "name": "MONTHLY",
+          "price": 820
+        }
+      ]
     }
   },
   "texts": null
