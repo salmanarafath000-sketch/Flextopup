@@ -5,7 +5,20 @@
     "banner-1795095457873-9849.jpg",
     "banner-1795095464565-1740.jpg"
   ],
-  "quick": null,
+  "quick": [
+    {
+      "label": "Telegram",
+      "url": "https://@akhirhere00"
+    },
+    {
+      "label": "Join Group",
+      "url": ""
+    },
+    {
+      "label": "YouTube",
+      "url": ""
+    }
+  ],
   "images": null,
   "prod": {
     "uid": {
