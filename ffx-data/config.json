@@ -55,6 +55,15 @@
           "price": 820
         }
       ]
+    },
+    "wl": {
+      "packages": [
+        {
+          "label": "1X Weekly Lite",
+          "name": "1X Weekly Lite",
+          "price": 50
+        }
+      ]
     }
   },
   "texts": null
