@@ -1,10 +1,72 @@
 {
   "logo": null,
   "ffBanner": null,
-  "ffPackages": null,
   "banners": [
     "banner-1795095457873-9849.jpg",
     "banner-1795095464565-1740.jpg"
   ],
-  "quick": null
+  "quick": null,
+  "images": null,
+  "prod": {
+    "uid": {
+      "packages": [
+        {
+          "label": "WEEKLY",
+          "name": "WEEKLY",
+          "price": 165
+        },
+        {
+          "label": "MONTHLY",
+          "name": "MONTHLY",
+          "price": 820
+        },
+        {
+          "label": "25 Diamond",
+          "name": "25 Diamond",
+          "price": 22
+        },
+        {
+          "label": "50 Diamond",
+          "name": "50 Diamond",
+          "price": 36
+        },
+        {
+          "label": "100 Diamond",
+          "name": "100 Diamond",
+          "price": 80
+        },
+        {
+          "label": "240 Diamond",
+          "name": "240 Diamond",
+          "price": 158
+        },
+        {
+          "label": "355 Diamond",
+          "name": "355 Diamond",
+          "price": 237
+        },
+        {
+          "label": "200 Diamond",
+          "name": "200 Diamond",
+          "price": 165
+        },
+        {
+          "label": "610 Diamond",
+          "name": "610 Diamond",
+          "price": 445
+        },
+        {
+          "label": "850 Diamond",
+          "name": "850 Diamond",
+          "price": 558
+        },
+        {
+          "label": "1220 Diamond",
+          "name": "1220 Diamond",
+          "price": 880
+        }
+      ]
+    }
+  },
+  "texts": null
 }
