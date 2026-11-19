@@ -73,6 +73,55 @@
           "price": 530
         }
       ]
+    },
+    "in": {
+      "packages": [
+        {
+          "label": "50 Diamond (Indo)",
+          "name": "Out of stock",
+          "price": 65
+        },
+        {
+          "label": "70 Diamond (Indo)",
+          "name": "Out of stock",
+          "price": 90
+        },
+        {
+          "label": "100 Diamond (Indo)",
+          "name": "Out of stock",
+          "price": 130
+        },
+        {
+          "label": "140 Diamond (Indo)",
+          "name": "Out of stock",
+          "price": 180
+        },
+        {
+          "label": "355 Diamond (Indo)",
+          "name": "Out of stock",
+          "price": 445
+        },
+        {
+          "label": "720 Diamond (Indo)",
+          "name": "Out of stock",
+          "price": 890
+        },
+        {
+          "label": "7290Diamond (Indo)",
+          "name": "Out of stock",
+          "price": 8800
+        },
+        {
+          "label": "Weekly (Indo)",
+          "name": "Out of stock",
+          "price": 255
+        },
+        {
+          "label": "Monthly (Indo)",
+          "name": "Out of stock",
+          "price": 800
+        }
+      ]
     }
   },
   "texts": null
