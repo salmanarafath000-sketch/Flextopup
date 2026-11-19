@@ -21,29 +21,9 @@
           "price": 820
         },
         {
-          "label": "25 Diamond",
-          "name": "25 Diamond",
-          "price": 22
-        },
-        {
-          "label": "50 Diamond",
-          "name": "50 Diamond",
-          "price": 36
-        },
-        {
           "label": "100 Diamond",
           "name": "100 Diamond",
           "price": 80
-        },
-        {
-          "label": "240 Diamond",
-          "name": "240 Diamond",
-          "price": 158
-        },
-        {
-          "label": "355 Diamond",
-          "name": "355 Diamond",
-          "price": 237
         },
         {
           "label": "200 Diamond",
@@ -54,11 +34,6 @@
           "label": "610 Diamond",
           "name": "610 Diamond",
           "price": 445
-        },
-        {
-          "label": "850 Diamond",
-          "name": "850 Diamond",
-          "price": 558
         },
         {
           "label": "1220 Diamond",
