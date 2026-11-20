@@ -19,7 +19,9 @@
       "url": ""
     }
   ],
-  "images": null,
+  "images": {
+    "pop": "img-pop-1795140609309.png"
+  },
   "prod": {
     "uid": {
       "packages": [
